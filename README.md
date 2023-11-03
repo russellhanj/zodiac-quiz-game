@@ -33,26 +33,6 @@ The quiz questions and answers are stored in a text file named "AstrologyQuiz.tx
   - Options should not display the asterisk to the user.
   - Questions are separated by an empty line.
 
-Example quiz file:
-3
-What is the largest planet in our solar system?
-Jupiter
-Mars
-Saturn
-*Earth
-
-How many zodiac signs are there?
-*12
-6
-9
-7
-
-Which planet is known as the Red Planet?
-Venus
-*Mars
-Neptune
-Pluto
-
 ## Example
 
 Here's an example of how the program reads questions from "AstrologyQuiz.txt" and conducts a quiz:
