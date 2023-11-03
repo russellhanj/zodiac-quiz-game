@@ -7,7 +7,6 @@ This repository contains the code and files for an electronic quiz system. It re
 - [Usage](#usage)
 - [File Format](#file-format)
 - [Example](#example)
-- [License](#license)
 
 ## Features
 
